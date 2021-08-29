@@ -1,0 +1,7 @@
+configuration {
+    modi: "drun";
+    font: "IBM Plex Sans 12";
+    show-icons: true;
+    terminal: "termite";
+    theme: "murka";
+}
